@@ -7,7 +7,7 @@
 
 **`Super Awesome Team Awesome`**
 
-audio plugins. software tools. weird visualizers. good vibes only.
+audio plugins. software tools. weird visualizers.
 
 [![site](https://img.shields.io/badge/satalabs.xyz-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjxwYXRoIGQ9Ik0xMiAyYTEyIDE1IDAgMCAxIDAgMjBhMTIgMTUgMCAwIDEgMC0yMCIvPjwvc3ZnPg==&logoColor=white)](https://satalabs.xyz)
 &nbsp;
@@ -56,6 +56,6 @@ home base: **[satalabs.xyz](https://satalabs.xyz)**
 
 **[satalabs.xyz](https://satalabs.xyz)** &nbsp;&bull;&nbsp; **[glitch-mesh demo](https://sata-labs.github.io)** &nbsp;&bull;&nbsp; **[LPF9000](https://satalabs.xyz/products/lpf9000)**
 
-<sub>built by ryan & adriana &mdash; because making things is fun</sub>
+<sub>built by ryan & adriana</sub>
 
 </div>
