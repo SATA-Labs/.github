@@ -19,9 +19,9 @@ audio plugins. software tools. weird visualizers. good vibes only.
 
 ### `> what we do`
 
-we build audio tools because we like building things. two people, no corporate nonsense, just code and sound.
+we build audio tools because we like building things. two people, fun stuff.
 
-our stuff ships on **[satalabs.xyz](https://satalabs.xyz)** — that's home base.
+home base: **[satalabs.xyz](https://satalabs.xyz)**
 
 ### `> current gear`
 
